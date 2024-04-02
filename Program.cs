@@ -49,7 +49,7 @@ string result;
 if(num1 > num2){
     result = num1 + " is greater than " + num2 + " and " + num2 + " is less than" + num1;
 }else if(num1 < num2) {
-    result = num1 + " is less than " + num2 + " and " + num1 + " is greater than " + num2;
+    result = num1 + " is less than " + num2 + " and " + num2 + " is greater than " + num1;
 }else {
     result = num1 + " is equal to " + num2 + " both numbers are equal";
 
